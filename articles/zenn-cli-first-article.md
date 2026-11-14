@@ -1,8 +1,9 @@
+
 ---
-title: ""
+title: "Zenn CLIとGitHubを連携して記事を公開する環境を構築した"
 emoji: "📚"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
+topics: ["zenn", "github", "nodejs"]	
 published: false
 ---
 
